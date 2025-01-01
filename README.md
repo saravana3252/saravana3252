@@ -16,8 +16,8 @@ MERN STACK DEVELOPER
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravana3252&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
-[![Hareesh's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saravana3252&bg_color=1d1b1c&color=e3e3e3&line=d5e873&point=fed2d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![saravana's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saravana3252&bg_color=1d1b1c&color=e3e3e3&line=d5e873&point=fed2d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))

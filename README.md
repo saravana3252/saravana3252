@@ -8,7 +8,7 @@ MERN STACK DEVELOPER
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 

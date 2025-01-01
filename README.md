@@ -31,9 +31,9 @@
 <div align="start">
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />  
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />  
+ <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
   <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB Compass" />   
-  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" />   
+<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github-logo.png" alt="github-logo"/>
 </div>  
 
 ---

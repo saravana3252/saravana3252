@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Technologies I Work With  
-<div align="center">
+<div align="start">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />  
@@ -28,7 +28,7 @@
 ---
 
 ### ⚙️ Tools & IDEs  
-<div align="center">
+<div align="start">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />  
 </div>  
